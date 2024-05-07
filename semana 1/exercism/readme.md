@@ -5,7 +5,7 @@ La función devuelve una cadena de texto que dice: "One for // nombre , one for 
 Utiliza la técnica de interpolación de cadenas (indicado por los backticks ` y ${}), que permite insertar directamente el valor de una variable o expresión dentro de una cadena de texto.
 Dependiendo del valor de name que se pase a la función, ese valor se inserta en lugar de ${name} en la cadena de texto final.*/
 links del codigo
-// 1.https://youtu.be/bM2w7c16ZjA
+// 1. https://www.youtube.com/watch?v=K1mIN238E5c&ab_channel=JUANDIEGOLLANGHISARABIA 
 
 */Resistor-color
 
@@ -22,4 +22,4 @@ Si el color existe, devuelve el índice asociado a ese color.
 Si el color no está en el mapa, lanza un error indicando que el color es inválido.*/
 
 links de los codigo
-//2.https://youtu.be/hUxdE_81-PU 
+//2. https://www.youtube.com/watch?v=_3jEKMKQdws&t=3s&ab_channel=JUANDIEGOLLANGHISARABIA 
